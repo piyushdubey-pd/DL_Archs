@@ -1,2 +1,2 @@
 # div1
-codes of division 1
+basic DL networks trained to an accuracy of 90%
